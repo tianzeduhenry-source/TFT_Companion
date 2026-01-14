@@ -1,0 +1,7 @@
+{
+  "name": "TFT Meta Companion",
+  "description": "A comprehensive mobile-first dashboard for Teamfight Tactics players to access stats, guides, and AI-powered patch analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
